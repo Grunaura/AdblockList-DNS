@@ -59536,25 +59536,9 @@ zlp6s.pw
 zmedia.com
 zqtk.net
 # End yoyo.org
+
+
 # Start Badd-Boyz-Hosts
-# This hosts file is brought to you by Mitchell Krog
-# Copyright: https://github.com/mitchellkrogza
-# Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
-##################################################################################
-#                                                                                #
-#        ___          __   __    ___                    __ __         __         #
-#       / _ )___ ____/ /__/ /   / _ )___  __ _____     / // /__  ___ / /____     #
-#      / _  / _ `/ _  / _  /   / _  / _ \/ // /_ /    / _  / _ \(_- __(_-<     #
-#     /____/\_,_/\_,_/\_,_/   /____/\___/\_, //__/   /_//_/\___/___/\__/___/     #
-#                                       /___/                                    #
-# Please forward any additions, corrections or comments by logging an issue at
-# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
-# This list of hosts is compiled from server logs on my own servers
-# and forms the basis of the bad referrers domain lists for
-# The Nginx Ultimate Bad Bot Blocker at: 
-# https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
-# and the Apache Ultimate Bad Bot Blocker at:
-# https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 ##### Version Information #
 ###################################################
 ### Version: V1.2018.12.7425
@@ -63141,15 +63125,12 @@ zzqrt.com
 zzsyw.com
 # END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 # End Badd-Boyz-Hosts
+
+
+
 # Start CoinBlockerList
-# Contribute: https://gitlab.com/ZeroDot1/CoinBlockerLists/issues/new
-# Copyright: (c) ZeroDot1, 2018
 # Description: This list disables browser based miners such as coin-hive
-# Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
-# Homepage: https://github.com/ZeroDot1/CoinBlockerLists
 # Last modified: 2018-11-13 16:58
-# License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
-# [CoinBlocker hosts List optional by ZeroDot1]
 000.0x1f4b0.com
 001.0x1f4b0.com
 002.0x1f4b0.com
@@ -65920,6 +65901,8 @@ zymerget.stream
 zymerget.win
 zzqhsrg.ru
 # End CoinBlockerList
+
+
 # Start UncheckyAds
 cdn.appround.biz
 cdn.download.sweetpacks.com
@@ -65931,6 +65914,8 @@ installer.betterinstaller.com
 installer.filebulldog.com
 nsis.bisrv.com
 # End UncheckyAds
+
+
 # Start add.2o7Net
 aarp.122.2o7.net
 abcotv.hb.omtrdc.net
@@ -66207,19 +66192,12 @@ zag.122.2o7.net
 ziffdavisdesktoplinux.112.2o7.net
 zipzoomfly.122.2o7.net
 # End add.2o7Net
+
+
 # Start KADhosts
-# Title: KADhosts
-# Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
 # Last modified: Tue, 08 Jan 2019, 18:33:48 UTC+01
-# Version: 201901081833
-# Expires: 2 days
-# Website: https://azet12.github.io/KAD/
-# Repository: https://github.com/azet12/KADhosts
-# Based on: https://github.com/azet12/KAD
-# Check the repository for license information. / Sprawdz repozytorium po informacje o licencji.
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
-# (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
-# Lista glowna
+# List 
 1freesoftwareonline.com
 4kplayer.pl
 4ksport.pl
@@ -67709,21 +67687,11 @@ www.infolinia-kontakt-telefon.pl
 www.the-best-movies.xcc24.pl
 wydawca.lead.network
 # End KADhosts
+
+
 # Start adaway.org
 # AdAway default blocklist
 # Blocking mobile ad providers and some analytics providers
-# Contribute:
-# Create an issue at https://github.com/AdAway/AdAway/issues
-# Changelog:
-# 2016-07-18 Now hosted on GitHub + Cloudflare
-# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
-# 2013-03-29 Integrated some hosts from
-#            http://adblock.gjtech.net/?format=hostfile
-# 2013-03-14 Back from the dead
-# License:
-# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
-# Contributions by:
-# Kicelo, Dominik Schuermann
 # [General]
 lb.usemaxserver.de
 tracking.klickthru.com
