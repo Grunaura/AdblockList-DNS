@@ -31615,9 +31615,9 @@ www.vydoxtrial.com
 # your information back to a company.
 #fe80::1%lo0
 # For example, to block unpleasant pages, try:
-goatse.cx  # More information on sites such as
-www.goatse.cx  # these can be found in this article
-oralse.cx  # en.wikipedia.org/wiki/List_of_shock_sites
+# goatse.cx  # More information on sites such as
+# www.goatse.cx  # these can be found in this article
+# oralse.cx  # en.wikipedia.org/wiki/List_of_shock_sites
 www.oralse.cx
 goatse.ca
 www.goatse.ca
@@ -33013,7 +33013,7 @@ sync.bfmio.com
 sync.clickonometrics.pl
 s.youtube.com  # Blocking this will interfere with video watching history
 systweak.com
-#t2.hulu.com
+t2.hulu.com
 tag.crsspxl.com
 tagging.outrider.com
 tags.bkrtx.com
@@ -33567,6 +33567,8 @@ xxxcounter.com
 xyz.freelogs.com
 zsisk.com
 zz.cqcounter.com
+
+
 # sites with known trojans, phishing, or other malware
 05tz2e9.com
 09killspyware.com
@@ -35089,6 +35091,8 @@ jsandboxer.cjt1.net
 jumcna.cjt1.net
 jwebbsense.cjt1.net
 www.cydoor.com
+
+
 #<2o7-sites>
 # 2o7.net -- server side tracking
 102.112.2o7.net
@@ -35552,6 +35556,8 @@ yrkeve.112.2o7.net
 ziffdavisglobal.112.2o7.net
 ziffdavispennyarcade.112.2o7.net
 #2o7-sites>
+
+
 # oewabox.at -- 'Austrian Webanalysis Society'
 1000ps.oewabox.at
 afinder.oewabox.at
@@ -35678,6 +35684,8 @@ wirtvlg.oewabox.at
 woche.oewabox.at
 wohnnet.oewabox.at
 zfm.oewabox.at
+
+
 #adfarm.mediaplex.com
 #ads.msn.com
 #ak.imgfarm.com
@@ -43672,6 +43680,8 @@ zu1.november-lax.com
 zuzzer5.com
 zytpirwai.net
 zzzrtrcm2.com
+
+
 # https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html
 admicro1.vcmedia.vn
 ct1.addthis.com
@@ -44083,6 +44093,8 @@ www.hitboxwireless.com
 y2k.hitbox.com
 yang.hitbox.com
 ying.hitbox.com
+
+
 # www.extreme-dm.com tracking
 extreme-dm.com
 reports.extreme-dm.com
@@ -44469,6 +44481,8 @@ www.xxxnations.com
 www.xxxnightly.com
 www.xxxtoolbar.com
 www.yourfuckbook.com
+
+
 # malicious e-card -- these sites send out mass quantities of spam 
 123greetings.com  # contains one link to distributor of adware or spyware
 2000greetings.com
@@ -44503,6 +44517,8 @@ ntv.ivwbox.de
 onvis.ivwbox.de
 spiegel.ivwbox.de
 www.ivwbox.de
+
+
 # message board and wiki spam -- these sites are linked in 
 10pg.scl5fyd.info
 21jewelry.com
@@ -45311,89 +45327,17 @@ zyprexa.about-tabs.com
 zyrtec.1.p2l.info
 zyrtec.3.p2l.info
 zyrtec.4.p2l.info
-# Windows 10 reporting domains. 
-a.ads2.msads.net
-adnexus.net
-aidps.atdmt.com
-az361816.vo.msecnd.net
-az512334.vo.msecnd.net
-b.ads1.msn.com
-b.ads2.msads.net
-c.atdmt.com
-cdn.atdmt.com
-cds26.ams9.msecn.net
-c.msn.com
-db3aqu.atdmt.com
-ec.atdmt.com
-feedback.microsoft-hohm.com
-flex.msn.com
-g.msn.com
-h1.msn.com
-lb1.www.ms.akadns.net
-live.rads.msn.com
-m.adnxs.com
-msnbot-65-55-108-23.search.msn.com
-msntest.serving-sys.com
-preview.msn.com
-reports.wes.df.telemetry.microsoft.com
-schemas.microsoft.akadns.net
-secure.flashtalking.com
-settings-win.data.microsoft.com
-so.2mdn.net
-statsfe2.ws.microsoft.com
-telemetry.appex.bing.net
-wes.df.telemetry.microsoft.com
-# Acknowledgements
-# I'd like to thank the following people for submitting sites, and
-# helping promote the site.
-# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
-#  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
-#  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
-#  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
-#  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
-#  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
-#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
-#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
-#  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
-#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
-#  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
-#  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
-#  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
-#  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
-#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
-#  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
-#  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
-#  Marschall, Michael Tompkins, Michael O'Donnell, José Lucas Teixeira
-#  de Oliveira, M. Ömer Gölgeli, and Anthony Gelibert for helping to build 
-#  the hosts file.
-# Russell O'Connor for OS/2 information
-# kwadronaut for Windows 7 and Vista information
-# John Mueller and Lawrence H Smith for Mac Pre-OSX information
-# Jesse Baird for the Cisco IOS script
+
 # End someonewhocares.org
+
+
 # Start mvps.org
 # This MVPS HOSTS file is a free download from:            #
 # http://winhelp2002.mvps.org/hosts.htm                    #
 #                                                          #
 # Notes: The Operating System does not read the "#" symbol #
 # or anything after the # symbol on the same line          #
-# This *must* be the first line: 127.0.0.1     localhost   #
-#**********************************************************#
-# --------------- Updated: October-1-2018 ---------------- #
-# Disclaimer: this file is free to use for personal use    #
-# only. Furthermore it is NOT permitted to copy any of the #
-# contents or host on any other site without permission or #
-# meeting the full criteria of the below license terms.    #
-# This work is licensed under the Creative Commons         #
-# Attribution-NonCommercial-ShareAlike License.            #
-# https://creativecommons.org/licenses/by-nc-sa/4.0/       #
-# License info for commercial purposes contact Winhelp2002 #
+
 # [Start of entries generated by MVPS HOSTS]
 # [Misc A - Z]
 mfr.a2dfp.net
