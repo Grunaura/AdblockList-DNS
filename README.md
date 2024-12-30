@@ -83,7 +83,7 @@ We welcome contributions to improve the block lists or add new functionality. To
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and distribute this work without restriction.
 
 ---
 
@@ -92,7 +92,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Possible Future Plans
+## Future Plans
 - Automate the splitting of ads lists into smaller segments.
 - Regular integration of third-party block lists.
 - Improved threat list curation.
